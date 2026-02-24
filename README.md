@@ -4,7 +4,7 @@ Here  you can Iterate processes, Check Wifi connection, update your system, Sear
 
 # Installation
 When you download Mofi, Go to the folder where you downloaded it, then do
-**chmod +x installer.sh**
+'chmod +x installer.sh'
 And then:
-**sudo ./installer.sh**
+'sudo ./installer.sh'
 And wait for it to Finish, thats all, enjoy it!
