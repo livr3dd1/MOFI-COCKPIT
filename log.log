@@ -1,0 +1,14 @@
+Requirement already satisfied: requests in /usr/lib/python3.14/site-packages (2.32.5)
+Collecting customtkinter
+  Downloading customtkinter-5.2.2-py3-none-any.whl.metadata (677 bytes)
+Requirement already satisfied: charset_normalizer<4,>=2 in /usr/lib/python3.14/site-packages (from requests) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in /usr/lib/python3.14/site-packages (from requests) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /usr/lib/python3.14/site-packages (from requests) (2.6.3)
+Collecting darkdetect (from customtkinter)
+  Downloading darkdetect-0.8.0-py3-none-any.whl.metadata (3.6 kB)
+Requirement already satisfied: packaging in /usr/lib/python3.14/site-packages (from customtkinter) (26.0)
+Downloading customtkinter-5.2.2-py3-none-any.whl (296 kB)
+Downloading darkdetect-0.8.0-py3-none-any.whl (9.0 kB)
+Installing collected packages: darkdetect, customtkinter
+
+Successfully installed customtkinter-5.2.2 darkdetect-0.8.0
